@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/tools">
+    <item
+        compat:id="@+id/menu_favorites"
+        compat:icon="@drawable/heart_red"
+        compat:orderInCategory="200"
+        compat:showAsAction="ifRoom|withText"
+        compat:title="@string/favorites"
+        android:title="@string/favorites" />
+</menu>
